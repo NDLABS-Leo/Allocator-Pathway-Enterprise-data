@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1ep7glqqesqyysmnrcv3pqi6yjtmxlkemeypyo6i",
+  "Issue Number": "8",
+  "Client": {
+    "Name": "Cabin",
+    "Region": "China",
+    "Industry": "Financial Services",
+    "Website": "https://www.cabin.vc/",
+    "Social Media": "https://twitter.com/CabinVC",
+    "Social Media Type": "Twitter",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Cabin VC was founded in March 2018. Cabin VC is a core investment organization in the current development path of the global blockchain industry. The founding team started from the early construction and research of distributed ledger technology.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Affiliated to Cabin VC, Blocklike is a content-oriented media outlet focusing on blockchain technology and bottom ecology. We usually held online video events.\r\nTIDES Panel is Blocklike's roundtable with in-depth topics, which invites core builders in the current hot tracks to share interesting, in-depth, and valuable insights about the industry via Binance Live dialogue. By now, we have held roundtables on the topic of DID, GameFi, Ownership, Metaverse, SocialFi, AAA Games and other topics, which have attracting wide attention in the industry.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "custom tool",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.binance.com/zh-CN/live/u/23760390\r\nhttps://www.binance.com/zh-CN/live/video?roomId=2116157",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03079511 HK ; f02327534 USA ; f02956383 HK ; f02894855 China ; f02826234 SG",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "1PiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-06-14 10:05:01.144334232 UTC",
+    "Validated By": "NDLABS-Leo",
+    "Active": true,
+    "Updated At": "2024-07-05 06:31:10.309750717 UTC",
+    "Active Request ID": "6a1a5c29-5cd9-4e70-bef0-8effb0891981",
+    "On Chain Address": "f1ep7glqqesqyysmnrcv3pqi6yjtmxlkemeypyo6i",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "6a1a5c29-5cd9-4e70-bef0-8effb0891981",
+      "Request Type": "First",
+      "Created At": "2024-06-14 10:05:01.144341277 UTC",
+      "Updated At": "2024-06-14 10:05:01.144342916 UTC",
+      "Active": false,
+      "Allocation Amount": "500TiB",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2024-07-05 06:31:07.874000000 UTC",
+          "Message CID": "bafy2bzacedti4ilamizi2joyome3ofzjlcql6amlwoiy4jdhqv7o7e4xbbf2e"
+        }
+      ]
+    }
+  ]
+}
