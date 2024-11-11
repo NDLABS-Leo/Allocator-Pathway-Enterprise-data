@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f13z26ohzsigjsht57ar6fah7wly323uw3hxdprti",
+  "Issue Number": "25",
+  "Client": {
+    "Name": "ILK Learning",
+    "Region": "Hong Kong",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "https://ilklearning.com/hk/about-us",
+    "Social Media": "",
+    "Social Media Type": "Facebook",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Jixue Team: Bridging Learning Opportunities for the Future\r\n\r\nThe Jixue team is comprised of forward-thinking members, dedicated to building a one-stop course booking platform that represents the future of learning. Recognizing the growing demand for children’s courses and activities from parents and schools, and aware that passionate educators often struggle with enrollment due to time constraints and limited promotion, the Jixue platform aims to bridge this gap.\r\n\r\nWe offer parents and schools a seamless experience for searching, booking, and paying for courses, simplifying their lives and enhancing overall quality of life. Simultaneously, we work closely with educational partners to increase their visibility at no cost, making it easy for them to reach potential students and focus on teaching.\r\n\r\nTo enhance user experience, we continually upgrade our platform’s features, enabling users to find the best-fit courses quickly. With intelligent search functionality and multi-filter options, users can gain first-hand feedback from reviews and ratings, ensuring course quality. The platform also recommends courses based on user preferences and habits and allows users to effortlessly manage bookings through a “comprehensive management system.”\r\n\r\nLearn what you want, whenever you want, with Jixue!\r\nJust a few steps, and you’re ready to enroll!",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "We hope to store our lesson-related preparation materials, which include a large amount of videos, images, and other content.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "1.Data Classification and Organization\r\n\r\nFirst, I would classify the data to be stored, distinguishing between essential business data (such as user information, course content, payment details, etc.) and auxiliary data (such as course reviews, non-essential logs, etc.). When storing critical data on Filecoin, I would pay special attention to its accessibility and security, while non-essential data has relatively lower storage requirements.\r\n\r\n2.Data Cleaning and Optimization\r\n\r\nBefore uploading, I would clean and optimize all data, including:\r\n•Removing redundant information to reduce storage space requirements.\r\n•Compressing files to improve upload and storage efficiency.\r\n•Structuring or segmenting data to enhance storage and retrieval efficiency on Filecoin.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://ilklearning.com/hk/courses/categories/ForSchool",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Monthly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Less than 1 year",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03081958  changsha\r\nf03228820  KR\r\nf03157883  shenzhen\r\nf03226958  shenzhen",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "3PiB",
+    "Single Size Dataset": "400TiB",
+    "Replicas": 8,
+    "Weekly Allocation": "800TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-11-11 09:04:25.347492291 UTC",
+    "Validated By": "NDLABS-Leo",
+    "Active": true,
+    "Updated At": "2024-11-11 09:09:39.424736417 UTC",
+    "Active Request ID": "78f9984d-b28a-4039-b240-76a1303d5028",
+    "On Chain Address": "f13z26ohzsigjsht57ar6fah7wly323uw3hxdprti",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "78f9984d-b28a-4039-b240-76a1303d5028",
+      "Request Type": "First",
+      "Created At": "2024-11-11 09:04:25.347498850 UTC",
+      "Updated At": "2024-11-11 09:04:25.347500346 UTC",
+      "Active": false,
+      "Allocation Amount": "400TiB",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2024-11-11 09:09:43.462000000 UTC",
+          "Message CID": "bafy2bzaceaov5dfsh6vcdizbnhsnqwrbzm7ki6wvr34hufwvoziuup7ug6vlk"
+        }
+      ]
+    }
+  ]
+}
