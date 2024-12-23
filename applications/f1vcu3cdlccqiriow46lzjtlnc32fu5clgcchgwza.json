@@ -36,11 +36,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2024-12-13 10:34:36.853559969 UTC",
+    "Validated At": "2024-12-23 07:23:13.893916389 UTC",
     "Validated By": "NDLABS-Leo",
     "Active": true,
-    "Updated At": "2024-12-13 10:34:36.853555222 UTC",
-    "Active Request ID": "9575d787-119a-4b38-9a13-e7550ea7e6f6",
+    "Updated At": "2024-12-23 07:23:13.893912686 UTC",
+    "Active Request ID": "873cbeff-3889-4c3c-a13e-19ee3d0a40a8",
     "On Chain Address": "f1vcu3cdlccqiriow46lzjtlnc32fu5clgcchgwza",
     "Multisig Address": "false",
     "edited": false
@@ -107,6 +107,22 @@
           "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
           "Created At": "2024-12-13 10:34:36.989000000 UTC",
           "Message CID": "bafy2bzacea2bpwmfauuhtfpwjxrvek4ck6ubrgbuuudx4hoq674ay6dkgskma"
+        }
+      ]
+    },
+    {
+      "ID": "873cbeff-3889-4c3c-a13e-19ee3d0a40a8",
+      "Request Type": "Refill",
+      "Created At": "2024-12-23 07:21:09.424154773 UTC",
+      "Updated At": "2024-12-23 07:21:09.424155727 UTC",
+      "Active": false,
+      "Allocation Amount": "1PiB",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2024-12-23 07:23:15.821000000 UTC",
+          "Message CID": "bafy2bzacebupocf77s5mr72pt3xmjgf5hbbg6zaepor3xpjyhvrhnuolzprrc"
         }
       ]
     }
