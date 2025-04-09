@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1msmzgntacrb33q7xen4m3bzzkp3ct23siomhooi",
+  "Issue Number": "53",
+  "Client": {
+    "Name": "softhard",
+    "Region": "Hong Kong",
+    "Industry": "IT & Technology Services",
+    "Website": "https://www.softhard.io/",
+    "Social Media": "https://www.softhard.io/",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "We help our customers adopt the power of IoT without the expense of setting up and managing the complex wireless infrastructure. With our Low Power WAN solution, IoT network setup can be “Snap-N-Go”. We help enterprises to reduce deployment in days. All devices can be setup and managed our our cloud platform to minimize the cost of ownership.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "The data from our platform. Lack of standards is one of the biggest challenges for IoT deployment. Our End to End IoT Enablement Platform standardizes the languages between different components. It consists of 3 elements, smart device which capture and translate data into universal format. Built-in WAN connectivity which eliminates network infrastructure setup. Middleware which integrates data into new or existing IoT platforms. Unlike the common do-it-yourself solution, our solution eliminates the unnecessary steps and makes IoT much easier, leading to a higher success rate so that Government, Enterprises around the world trust our solution.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "Our IoT Enablement Platform can integrate any IoT platforms likes Azure, AWS, Google Cloud, ThingsBoard and other in days. and now, we will develop in filecoin.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.softhard.io/wp-content/uploads/2018/11/usercase_Warehouse.jpg\nhttps://www.softhard.io/wp-content/uploads/2018/05/warehouse-img1-.jpg\nhttps://www.softhard.io/wp-content/uploads/2018/11/usercase_construction.jpg\nhttps://www.softhard.io/build4asia/",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "Lotus built-in data transfer, IPFS, HTTP or FTP server, Cloud storage (i.e. S3)",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03321512 soul\nf03526491 HK\nf03402347 singapore\nI will add more later",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "2PiB",
+    "Replicas": 5,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-04-09 07:18:11.223949770 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1msmzgntacrb33q7xen4m3bzzkp3ct23siomhooi",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
