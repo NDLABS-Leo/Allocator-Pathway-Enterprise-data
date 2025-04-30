@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1vs6rgnwzzxam54j532g3j3tjatmjirnu3okdhvq",
+  "Issue Number": "58",
+  "Client": {
+    "Name": "SPEEQO",
+    "Region": "Hong Kong",
+    "Industry": "Education & Training",
+    "Website": "https://www.speeqo.com/",
+    "Social Media": "https://x.com/SpeeqoEDU",
+    "Social Media Type": "Twitter",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "SPEEQO consolidates feedback from all key digital channels and support systems, delivering real-time actionable insights. Our adaptive AI models empower teams to reduce risks, optimise engagement, and drive data-driven improvements in products and services – all from a single platform.\n‍Putting our students' well-being first. A voice-based machine learning tool that looks to efficiently identify changes in childrens’ well-being.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "data collection from our clients. we have the voice based machine learning model.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.youtube.com/watch?v=EZ8wFIeWj8k\nhttps://www.youtube.com/watch?v=VQ0LUVCO9-0\nhttps://www.youtube.com/watch?v=u07qrjkN4jc\nthe model and database are not able to put on here",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), HTTP or FTP server, Lotus built-in data transfer",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03540144 Philippines\nf03540147 Philippines\nf03540153 SG\nf03321512 KR\nf03253411 CN\nf03321215 CN",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "6PiB",
+    "Single Size Dataset": "1PiB",
+    "Replicas": 6,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-04-30 09:15:10.006795621 UTC",
+    "Validated By": "NDLABS-Leo",
+    "Active": true,
+    "Updated At": "2025-04-30 09:15:10.006791962 UTC",
+    "Active Request ID": "d60428ea-bfbf-4c6b-8456-4b556a282b2a",
+    "On Chain Address": "f1vs6rgnwzzxam54j532g3j3tjatmjirnu3okdhvq",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "d60428ea-bfbf-4c6b-8456-4b556a282b2a",
+      "Request Type": "First",
+      "Created At": "2025-04-30 09:13:36.983138867 UTC",
+      "Updated At": "2025-04-30 09:13:36.983140 UTC",
+      "Active": false,
+      "Allocation Amount": "549755813888000 B",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2025-04-30 09:15:08.557000000 UTC",
+          "Message CID": "bafy2bzaceazs2s6ihmkmxecderh2eivkdwsjy4veo735m7k6x7exvhc4hdwsi"
+        }
+      ]
+    }
+  ]
+}
