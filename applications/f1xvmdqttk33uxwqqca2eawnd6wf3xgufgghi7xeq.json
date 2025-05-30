@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1xvmdqttk33uxwqqca2eawnd6wf3xgufgghi7xeq",
+  "Issue Number": "72",
+  "Client": {
+    "Name": "Molekiu",
+    "Region": "Hong Kong",
+    "Industry": "IT & Technology Services",
+    "Website": "https://www.molekiu.com/",
+    "Social Media": "https://www.linkedin.com/company/molekiu/",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Molekiu focuses on providing end to end robotic and AI solutions to enterprises, enabling them to reinvent their business operation models for scaling new heights in their performance and efficiency. We have been dedicating ourselves into developing the practical applications of Artificial Intelligence and robotics. Employing these latest technologies as a consequence, enables us to provide our clients with the best one-stop solutions in our industry. In addition, we are working to construct an innovation-based ecosystem by actively branching out to talents from various fields, such as green technology, biotechnology and Internet of things, so as to offer even better services to different sectors including commerce, health and education.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "end to end robotic and AI solutions data",
+    "Where was the data currently stored in this dataset sourced from": "Google Cloud",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.molekiu.com/zh/_files/ugd/514b4a_742b2ef586ae4267b2596895b5714253.pdf\nhttps://www.molekiu.com/zh/blog/categories/blog-1",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02827953 HK\nf02827843 HK\nf02827109 HK\nf02826602 CN \nf02825675 CN \nf01082868 KR\nf03540153 SG",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "7PiB",
+    "Single Size Dataset": "1PiB",
+    "Replicas": 7,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-05-30 10:34:11.439629864 UTC",
+    "Validated By": "NDLABS-Leo",
+    "Active": true,
+    "Updated At": "2025-05-30 10:34:11.439626517 UTC",
+    "Active Request ID": "6b341e1a-c8fc-4dcc-865f-03e0381c6306",
+    "On Chain Address": "f1xvmdqttk33uxwqqca2eawnd6wf3xgufgghi7xeq",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "6b341e1a-c8fc-4dcc-865f-03e0381c6306",
+      "Request Type": "First",
+      "Created At": "2025-05-30 10:32:21.137140306 UTC",
+      "Updated At": "2025-05-30 10:32:21.137141406 UTC",
+      "Active": false,
+      "Allocation Amount": "549755813888000 B",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2025-05-30 10:34:07.996000000 UTC",
+          "Message CID": "bafy2bzacea57lomigztenrszmbxkqnfni6ns7dqebme4rr4hfx7mjj5fehibg"
+        }
+      ]
+    }
+  ]
+}
