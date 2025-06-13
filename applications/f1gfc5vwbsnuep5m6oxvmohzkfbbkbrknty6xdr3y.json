@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1gfc5vwbsnuep5m6oxvmohzkfbbkbrknty6xdr3y",
+  "Issue Number": "44",
+  "Client": {
+    "Name": "youtoo",
+    "Region": "Hong Kong",
+    "Industry": "IT & Technology Services",
+    "Website": "https://youtoorobot.com/#YootooHomepage",
+    "Social Media": "友图YouTooRobot",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "YouToo Robot is a technology company dedicated to simplifying the application of industrial robots. Founded by a group of graduates from The Chinese University of Hong Kong, the company leverages algorithms and artificial intelligence to overcome technical barriers in industrial robot usage, providing efficient and flexible robot control solutions for manufacturers worldwide.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "1.Robot 3D Model Data\r\n•CAD files: Detailed designs and schematics of robotic components.\r\n•Simulation data: Files related to robot behavior simulation and performance testing.\r\n•Firmware backups: Data essential for the functioning of robots.\r\n•AI model files: Pre-trained models and datasets for robotic AI functions.\r\n\t\r\n2.Multimedia Content\r\n•Customer records: Photos and videos documenting customer activities at the venue.\r\n•Archived content: Videos and images for marketing campaigns, including YouTube channel uploads.\r\n\r\n3.Backup Data\r\n•Distributed backups of sensitive data replicated across nodes in different regions to ensure redundancy and disaster recovery.\r\n\r\nThe total storage requirement is approximately 850TB, with backups spread across six geographically distributed nodes to ensure data availability and reliability.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "1. Data Classification and Organization\t\r\n•Action: Group images and videos by theme, type, or time.\r\n•Tools: macOS Finder, Linux File Manager, Python scripts.\r\n•Purpose: Ensure data is structured for easy access and management.\r\n\r\n2. Data Compression\r\n•Action: Compress files into ZIP or TAR archives for efficient uploading and storage.\r\n•Tools: 7-Zip, tar command, or Python libraries like zipfile.\r\n•Purpose: Reduce file fragmentation and ensure data integrity.\r\n\r\n3. Data Integrity Verification\r\n•Action: Verify file integrity using checksums (e.g., MD5, SHA-256).\r\n•Tools: sha256sum command or Python libraries like hashlib.\r\n•Purpose: Ensure data is not corrupted during preparation or transfer.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://x.com/i/status/1875161725332550014\r\nhttps://mp.weixin.qq.com/s/nOlbXBdKHuVwU7eV75xvuA\r\nhttps://mp.weixin.qq.com/s/HaEzjBos3BcIMF71HAul9g",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
+    "In which geographies do you plan on making storage deals": "Greater China, North America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03253435 korea\r\nf03253401 guangdong\r\nf03226958 guangdong\r\nf01084413 singapore\r\nf01084941 HK",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "850TiB",
+    "Replicas": 6,
+    "Weekly Allocation": "800TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-01-10 08:26:59.258580170 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1gfc5vwbsnuep5m6oxvmohzkfbbkbrknty6xdr3y",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
