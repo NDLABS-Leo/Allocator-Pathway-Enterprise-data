@@ -35,12 +35,12 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "TotalDatacapReached",
     "Validated At": "2025-06-01 17:32:42.374090519 UTC",
     "Validated By": "NDLABS-Leo",
-    "Active": true,
-    "Updated At": "2025-06-01 17:32:42.374086968 UTC",
-    "Active Request ID": "e22f2e3c-3576-46c4-9aef-51e431548e35",
+    "Active": false,
+    "Updated At": "2025-06-14 03:00:21.286777608 UTC",
+    "Active Request ID": null,
     "On Chain Address": "f1vs6rgnwzzxam54j532g3j3tjatmjirnu3okdhvq",
     "Multisig Address": "false",
     "edited": false
