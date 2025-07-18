@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1gajzzikdxfktkedlyjicekljjhdfakywsuvcglq",
+  "Issue Number": "96",
+  "Client": {
+    "Name": "Beijing Yunji Technology Co., Ltd.",
+    "Region": "Hong Kong",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://www.robotrunner.com/",
+    "Social Media": "@yunjitech",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Beijing Yunji Technology Co., Ltd. (referred to as \"Yunji Technology\") was founded in 2014 with the mission of \"Robots, for a Happier Humanity,\" and is committed to building a world-leading ecosystem for service intelligent agents. By deeply serving enterprise clients, Yunji Technology redefines consumer experiences through cutting-edge robotics and intelligent agent services. From robots capable of interacting with the physical world to intelligent software platforms that streamline decision-making, Yunji Technology leverages intelligent agents to deliver adaptive, scalable, consumer-centric, and future-ready products and services, establishing itself as a pioneer in the R&D and commercialization of robotic service agents.\n\n \n\nTo date, the company has deployed its solutions in over 30,000 global scenarios, including hotels, hospitals, factories, apartments, and office buildings, covering regions such as the Middle East, the Americas, South Korea, Japan, and Thailand. In 2024 alone, its robotic intelligent agents completed over 500 million service tasks and traveled 20.33 million kilometers—equivalent to circling the Earth’s equator approximately 507 times.\n \n\nIn 2023, Yunji Technology pioneered a new form of embodied intelligent robotics—the Composite Polymorphic Robot [UP]. As a multi-functional robot capable of using tools, understanding and assigning tasks, and collaborating in groups, it was recognized as one of the first \"Comprehensive 5G Application Solution Providers\" by the Ministry of Industry and Information Technology (MIIT) for its integration of \"robotics + 5G technology.\"\n \n\nYunji Technology has been successively awarded the titles of \"Specialized, Refined, Distinctive, and Innovative\" (Little Giant) Enterprise by the MIIT and the Beijing Municipal Government. It has also twice received China’s prestigious AI accolade, the \"Wu Wenjun Artificial Intelligence Award,\" and has participated in drafting 26 technical and industry standards, solidifying its leadership in technological innovation and application within the industry.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Enterprise operational data\nDevelopment data\nResearch case records related to robotics\nPromotional video data",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "1.We mainly use packaging tools such as CAR files to uniformly package the data, which facilitates our data transmission process.\n2.For online data transmission, we will use methods supported by the HTTP protocol.\n3.Based on suggestions from our SPs, we may also adopt tools like Boost or Curio for data onboarding.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "Hello, since some of the data we need to store is not suitable for public disclosure, I can provide some content that we plan to store but is publicly accessible — for example, materials we have published on our Video Account.\n\nhttps://www.youtube.com/watch?v=3QWASADn79Q\nhttps://www.youtube.com/watch?v=5DSwthJ5s-Y\nhttps://www.youtube.com/watch?v=FfKgzNn5F60&pp=0gcJCcwJAYcqIYzv",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Monthly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, North America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03601955 – Singapore\nf03601967 – South Korea\nf03601993 – South Korea\nf02826762 – Hong Kong\nf02827135 – Hong Kong\nf02827010 – Xinjiang\nf02825281 – Xinjiang\nf03610683 – Hong Kong\nf03623232 – Hong Kong",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "1.1PiB",
+    "Replicas": 9,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-07-18 06:42:47.316018648 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1gajzzikdxfktkedlyjicekljjhdfakywsuvcglq",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
