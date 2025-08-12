@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f1hnlnngv5fdxudruqrbqykds7ebxtxbtqkcmgndi",
   "Issue Number": "122",
+  "Client Contract Address": "f410fdfrfh3jhrys2w5rsjpdin3hab47gp4qy2z4fsdy",
   "Client": {
     "Name": "MateZ Lab",
     "Region": "Hong Kong",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-08-12 07:44:26.450347051 UTC",
+    "Validated By": "NDLABS-Leo",
     "Active": true,
-    "Updated At": "2025-08-11 08:31:16.652308824 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-08-12 07:44:26.450350941 UTC",
+    "Active Request ID": "ea52f466-efc0-4e3d-a659-6346c1c5c5d4",
     "On Chain Address": "f1hnlnngv5fdxudruqrbqykds7ebxtxbtqkcmgndi",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "ea52f466-efc0-4e3d-a659-6346c1c5c5d4",
+      "Request Type": "First",
+      "Created At": "2025-08-12 07:44:26.450352611 UTC",
+      "Updated At": "2025-08-12 07:44:26.450353576 UTC",
+      "Active": true,
+      "Allocation Amount": "549755813888000 B",
+      "Signers": []
+    }
+  ]
 }
