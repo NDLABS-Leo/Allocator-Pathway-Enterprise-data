@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f1sxcnzbsynv6gmvz3i4thbiunm53kaziw6sjquui",
   "Issue Number": "132",
+  "Client Contract Address": "f410fdfrfh3jhrys2w5rsjpdin3hab47gp4qy2z4fsdy",
   "Client": {
     "Name": "asiabots",
     "Region": "Hong Kong",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-10-11 05:45:20.721431680 UTC",
+    "Validated By": "NDLABS-Leo",
     "Active": true,
-    "Updated At": "2025-10-10 08:51:16.635544140 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-10-11 05:45:20.721435798 UTC",
+    "Active Request ID": "f98afee6-124d-4196-bd52-918d1542ee36",
     "On Chain Address": "f1sxcnzbsynv6gmvz3i4thbiunm53kaziw6sjquui",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "f98afee6-124d-4196-bd52-918d1542ee36",
+      "Request Type": "First",
+      "Created At": "2025-10-11 05:45:20.721438550 UTC",
+      "Updated At": "2025-10-11 05:45:20.721439404 UTC",
+      "Active": true,
+      "Allocation Amount": "549755813888000 B",
+      "Signers": []
+    }
+  ]
 }
