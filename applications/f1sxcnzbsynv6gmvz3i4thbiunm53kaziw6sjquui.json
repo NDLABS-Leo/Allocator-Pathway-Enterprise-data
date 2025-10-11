@@ -36,11 +36,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-10-11 05:45:20.721431680 UTC",
+    "State": "Granted",
+    "Validated At": "2025-10-11 05:48:11.443972784 UTC",
     "Validated By": "NDLABS-Leo",
     "Active": true,
-    "Updated At": "2025-10-11 05:45:20.721435798 UTC",
+    "Updated At": "2025-10-11 05:48:11.443967943 UTC",
     "Active Request ID": "f98afee6-124d-4196-bd52-918d1542ee36",
     "On Chain Address": "f1sxcnzbsynv6gmvz3i4thbiunm53kaziw6sjquui",
     "Multisig Address": "false",
@@ -52,9 +52,18 @@
       "Request Type": "First",
       "Created At": "2025-10-11 05:45:20.721438550 UTC",
       "Updated At": "2025-10-11 05:45:20.721439404 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "549755813888000 B",
-      "Signers": []
+      "Amount of Datacap Sent to Contract": "549755813888000 B",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2025-10-11 05:48:25.189000000 UTC",
+          "Message CID": "bafy2bzacede6r4boswawgxb7cieefb36ysyjeameivy6ujoavh4kqyjgjz7rs",
+          "Increase allowance CID": "bafy2bzaced4isoqfpl6bhjhv2bbzxtrsancuxu6jfjylr6mbt2trjqjkf75sq"
+        }
+      ]
     }
   ]
 }
