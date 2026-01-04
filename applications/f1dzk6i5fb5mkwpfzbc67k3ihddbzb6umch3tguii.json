@@ -35,11 +35,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2026-01-04 07:00:10.339198811 UTC",
+    "State": "Granted",
+    "Validated At": "2026-01-04 07:01:41.008469339 UTC",
     "Validated By": "NDLABS-Leo",
     "Active": true,
-    "Updated At": "2026-01-04 07:00:10.339203169 UTC",
+    "Updated At": "2026-01-04 07:01:41.008466022 UTC",
     "Active Request ID": "eb8ac222-ba58-4eaf-8702-be9c59c4e283",
     "On Chain Address": "f1dzk6i5fb5mkwpfzbc67k3ihddbzb6umch3tguii",
     "Multisig Address": "false",
@@ -131,9 +131,16 @@
       "Request Type": "Refill",
       "Created At": "2026-01-04 07:00:10.339210513 UTC",
       "Updated At": "2026-01-04 07:00:10.339211272 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "1125899906842624B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2026-01-04 07:02:15.225000000 UTC",
+          "Message CID": "bafy2bzaceay3tc3oyufoe2h2rtmw3ojsxmon3frosabddlsbgk3zd2jxrnr2u"
+        }
+      ]
     }
   ]
 }
